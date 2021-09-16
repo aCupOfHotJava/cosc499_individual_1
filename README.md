@@ -1,5 +1,13 @@
 # cosc499_individual_1
 
+_New_ in latest version: character sorting support!
+
+This program does everything it did before, but is now able to sort
+arrays of characters!
+
+more to come...
+
+-------------------------------- **OLD** --------------------------------
 The program will sort an integer array.
 
 An array of size 100 indices will be populated with random integers

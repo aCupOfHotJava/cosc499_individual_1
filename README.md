@@ -1,5 +1,17 @@
 # cosc499_individual_1
 
+_New_ in latest version: character sorting support!
+
+This program does everything it did before, but is now able to sort
+arrays of characters!
+
+An array is populated with 100 characters generated randomly between
+ASCII A and Z in integer format. From this we can compare their values
+in much the same way as we did with the integer array. Consult the
+bottom of the README for instructions on how to run.
+
+-------------------------------- **OLD** --------------------------------
+
 The program will sort an integer array.
 
 An array of size 100 indices will be populated with random integers
